@@ -9,11 +9,11 @@ https://www.91aitv.com
 
 > 注意：分页和原有豆瓣api有些许不同，直接通过传参page= 来控制下一页
 
-- https://www.91aitv.com/v2/movie/search
-- https://www.91aitv.com/v2/movie/new_movies
-- https://www.91aitv.com/v2/movie/new_tv   
-- https://www.91aitv.com/v2/movie/new_zongyi
-- https://www.91aitv.com/v2/movie/new_dongman
+- https://www.91aitv.com/v2/movie/search?q=哪吒
+- https://www.91aitv.com/v2/movie/new_movies?page=1
+- https://www.91aitv.com/v2/movie/new_tv?page=1   
+- https://www.91aitv.com/v2/movie/new_zongyi?page=1
+- https://www.91aitv.com/v2/movie/new_dongman?page=1
 - https://www.91aitv.com/v2/movie/subject/:id
 
 ## 数据来源 http://www.360kan.com
